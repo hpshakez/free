@@ -1,1 +1,1 @@
-free hatchers hack
+free hatchers script
