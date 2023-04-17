@@ -4,7 +4,7 @@ _G.Hatch    = true
 _G.Airdrops = true
 _G.Upgrade  = false
 --Hatching
-local Egg    = "Painted Spring Egg";
+local Egg    = "Gingerbread Egg";
 local Amount = "Buy8";
 local BuyEgg = game:GetService("ReplicatedStorage").GameClient.Events.RemoteFunction.BuyEgg;
 local LimitedEgg = game:GetService("ReplicatedStorage").Events.HatchLimited;
